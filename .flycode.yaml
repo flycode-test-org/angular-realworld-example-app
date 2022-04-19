@@ -4,7 +4,7 @@ environments:
     branch: master
     mode: pull-request
 apps:
-  - name: angular-realworld-example-app
+  - name: Angular Hardcoded Example App
     path: ""
     text-resources:
       - path: "*.html"
